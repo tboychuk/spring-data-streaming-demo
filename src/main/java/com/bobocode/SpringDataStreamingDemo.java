@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WebinarForZsuDemoApplication {
+public class SpringDataStreamingDemo {
 
     public static void main(String[] args) {
-        SpringApplication.run(WebinarForZsuDemoApplication.class, args);
+        SpringApplication.run(SpringDataStreamingDemo.class, args);
     }
 
 }
